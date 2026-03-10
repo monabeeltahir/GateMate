@@ -22,7 +22,7 @@ Gating Workflow
 Publication-Quality Export
 
 Customization (Tuning)
-*   [Overview & Value Proposition](#Overview & Value Proposition)
+*   [Overview & Value Proposition](#Overview&ValueProposition)
 *   [Usage](#usage)
 *   [Contributing](#contributing)
 
