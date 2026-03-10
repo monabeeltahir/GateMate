@@ -8,11 +8,24 @@ Figure 1: Complete Comparative Gating Dashboard. The left-most sample (File 1) i
 
 ## Table of Contents
 
-*   [Getting Started](#getting-started)
-    *   [Prerequisites](#prerequisites)
+
+Key Features
+
+Dashboard Layout & Referencing
+
+Prerequisites
+
+Getting Started
+
+Gating Workflow
+
+Publication-Quality Export
+
+Customization (Tuning)
+*   [Overview & Value Proposition](#Overview & Value Proposition)
 *   [Usage](#usage)
 *   [Contributing](#contributing)
 
-## Getting Started
+## Overview & Value Proposition
 
 ...
